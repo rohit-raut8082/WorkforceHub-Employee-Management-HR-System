@@ -1,0 +1,12 @@
+# Local configuration
+.env
+
+# Uploaded/generated user files
+uploads/*
+!uploads/.gitkeep
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
