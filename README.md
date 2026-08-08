@@ -315,7 +315,7 @@ employee-management-system/
 ## 1. Clone the repository
 
 ``` bash
-git clone https://github.com/YOUR_USERNAME/workforcehub.git
+git clone https://github.com/rohit-raut8082/WorkforceHub-Employee-Management-HR-System.git
 ```
 
 Or download the ZIP and extract it.
@@ -412,29 +412,7 @@ Admin access is restricted to administrative pages.
 
 # 📸 Screenshots
 
-Add your project screenshots inside:
 
-``` text
-screenshots/
-```
-
-Recommended filenames:
-
-``` text
-screenshots/
-├── login.png
-├── admin-dashboard.png
-├── employee-management.png
-├── department-management.png
-├── attendance-management.png
-├── leave-management.png
-├── employee-dashboard.png
-└── employee-profile.png
-```
-
-Then add them to this section using:
-
-``` markdown
 ### Login
 
 ![WorkforceHub Login](screenshots/login.png)
@@ -464,19 +442,6 @@ Then add them to this section using:
 
 ![Employee Profile](screenshots/employee-profile.png)
 ```
-
-### Suggested screenshot order for GitHub
-
-1.  Login
-2.  Admin Dashboard
-3.  Employee Management
-4.  Department Management
-5.  Attendance
-6.  Leave Management
-7.  Employee Dashboard
-8.  Employee Profile
-
-This gives recruiters a quick overview of the project.
 
 ------------------------------------------------------------------------
 
